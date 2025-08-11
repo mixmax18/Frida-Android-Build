@@ -8,7 +8,7 @@ on:
         required: true
 
 permissions:
-  contents: write   # need create and relese update
+  contents: write   # need create and release update
 
 jobs:
   android_build:
